@@ -1,5 +1,5 @@
-# Add Sublime Text 3 to Windows Context
-Add "Open with Sublime Text 3" to Context Menu (Rightclick Menu) for any file, folder
+# Add Sublime Text to Windows Context
+Add "Open with Sublime Text" to Context Menu (Rightclick Menu) for any file, folder
 
-Run file "SublimeText3Context.bat" and type your options.
+Run file "SublimeTextContext.bat" and type your options.
 Done!
